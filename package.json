@@ -1,0 +1,8 @@
+{
+  "name": "demo_chatapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mim15/demo_chatapp.git",
+  "author": "mim15 <mim.blog15@gmail.com>",
+  "license": "MIT"
+}
